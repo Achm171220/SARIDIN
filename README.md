@@ -2,7 +2,7 @@
 Sistem Informasi Arsip Dinamis
 Cara Instalasi
 Hosting
-1. Beli Hosting
+1. Beli Hosting (recomended niagahoster.co.id)
 2. Upload folder Public ke folder Public_html Hosting
 3. Upload folder Saridin ke folder root Hosting
 4. Buat Database di Hosting
